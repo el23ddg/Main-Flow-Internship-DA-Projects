@@ -22,21 +22,21 @@ Clear and informative charts for easy interpretation of student performance tren
 ## Task 2 
 ### Data Analysis and Sales Performance Projects
 #### Project 1: General EDA (store_sales.csv)
-Performed an Exploratory Data Analysis (EDA) to uncover trends and anomalies. Key tasks:
+##### Performed an Exploratory Data Analysis (EDA) to uncover trends and anomalies. Key tasks:
 - Data Cleaning: Handled missing values, removed duplicates, and detected outliers using IQR and Z-scores.
 - Statistical Analysis: Calculated mean, median, standard deviation, and correlations to understand relationships.
 - Visualizations: Histograms, boxplots, and heatmaps to showcase distributions and correlations.
-Deliverables:
+##### Deliverables:
 - Cleaned dataset and insightful visualizations.
 - A report highlighting patterns and relationships.
 ### Project 2: Sales Performance Analysis (Ecommerce_Sales.csv)
-Analyzed sales data to identify key factors driving performance. Key tasks:
+##### Analyzed sales data to identify key factors driving performance. Key tasks:
 - Data Cleaning: Removed duplicates and converted dates to datetime for time-series analysis.
 - EDA:
 1) Time series plots to track sales trends.
 2) Scatter plots for Profit vs. Discount relationships.
 3) Charts for sales distribution by Region and Category.
 - Predictive Modeling: Built a Linear Regression model to predict sales using Profit and Discount, evaluated with MSE and R² scores.
-Deliverables:
+##### Deliverables:
 1) Visualizations of trends and sales patterns.
 2) A predictive model with actionable insights to improve sales performance.
