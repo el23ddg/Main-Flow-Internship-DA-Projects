@@ -36,7 +36,7 @@ Analyzed sales data to identify key factors driving performance. Key tasks:
 1) Time series plots to track sales trends.
 2) Scatter plots for Profit vs. Discount relationships.
 3) Charts for sales distribution by Region and Category.
-Predictive Modeling: Built a Linear Regression model to predict sales using Profit and Discount, evaluated with MSE and R² scores.
+- Predictive Modeling: Built a Linear Regression model to predict sales using Profit and Discount, evaluated with MSE and R² scores.
 Deliverables:
-- Visualizations of trends and sales patterns.
-- A predictive model with actionable insights to improve sales performance.
+1) Visualizations of trends and sales patterns.
+2) A predictive model with actionable insights to improve sales performance.
