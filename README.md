@@ -29,7 +29,7 @@ Clear and informative charts for easy interpretation of student performance tren
 ##### Deliverables:
 - Cleaned dataset and insightful visualizations.
 - A report highlighting patterns and relationships.
-### Project 2: Sales Performance Analysis (Ecommerce_Sales.csv)
+#### Project 2: Sales Performance Analysis (Ecommerce_Sales.csv)
 ##### Analyzed sales data to identify key factors driving performance. Key tasks:
 - Data Cleaning: Removed duplicates and converted dates to datetime for time-series analysis.
 - EDA:
