@@ -44,12 +44,12 @@ Clear and informative charts for easy interpretation of student performance tren
 ### Customer Segmentation using K-Means Clustering
 This project applies K-Means Clustering to segment customers based on their purchasing behavior. It uses Pandas, Scikit-Learn, Matplotlib, and Seaborn to preprocess data, determine optimal clusters, and visualize insights.
 #### 📌 Features
-✔ Load and preprocess customer data (handling missing values, encoding, scaling)
-✔ Determine optimal clusters using Elbow Method & Silhouette Score
-✔ Apply K-Means Clustering to segment customers
-✔ Reduce dimensions using PCA for visualization
-✔ Generate insightful visualizations (scatter plots, pair plots)
-✔ Identify customer segments for targeted marketing strategies
+-✔ Load and preprocess customer data (handling missing values, encoding, scaling)
+-✔ Determine optimal clusters using Elbow Method & Silhouette Score
+-✔ Apply K-Means Clustering to segment customers
+-✔ Reduce dimensions using PCA for visualization
+-✔ Generate insightful visualizations (scatter plots, pair plots)
+-✔ Identify customer segments for targeted marketing strategies
 #### 📂 Dataset
 The dataset contains customer information:
 - CustomerID (Dropped)
@@ -58,12 +58,12 @@ The dataset contains customer information:
 - Annual_Income_(k$)
 - Spending_Score (1-100)
 #### 📊 Visualizations
-🔹 Elbow Method Plot → Determines the best number of clusters
-🔹 PCA Scatter Plot → Visualizes customer clusters in 2D
-🔹 Pair Plot → Shows relationships between customer attributes
+-🔹 Elbow Method Plot → Determines the best number of clusters
+-🔹 PCA Scatter Plot → Visualizes customer clusters in 2D
+-🔹 Pair Plot → Shows relationships between customer attributes
 #### 📌 Key Insights & Recommendations
-✅ Identify high-spending customers for premium services
-✅ Target low-income but high-spending groups with discounts
-✅ Improve marketing campaigns based on customer behavior
+-✅ Identify high-spending customers for premium services
+-✅ Target low-income but high-spending groups with discounts
+-✅ Improve marketing campaigns based on customer behavior
 
 📊 Data-driven customer segmentation helps optimize business strategies! 🚀
