@@ -67,3 +67,19 @@ The dataset contains customer information:
 - ✅ Improve marketing campaigns based on customer behavior
 
 📊 Data-driven customer segmentation helps optimize business strategies! 🚀
+
+## Task 4
+### House Price Prediction & Analysis
+#### 📌 Project Overview
+This project analyzes house prices based on key features like Size (Area), Number of Rooms, and Location using Regression Models. It provides insights into how these factors influence pricing and evaluates model accuracy for real-world predictions.
+#### 📊 Data Analysis & Insights
+- Size vs. Price: Larger houses generally have higher prices, but location and other factors also impact cost.
+- Number of Rooms vs. Price: More rooms correlate with higher prices, but variations exist.
+- Effect of Location: Location plays a significant role, influencing price beyond size or room count.
+#### 📈 Machine Learning Model
+- Regression Model: Used to predict house prices based on key features.
+- Performance Metrics: Evaluated using R² score, MAE, and RMSE.
+#### 📜 Results & Conclusion
+- The regression model provides moderate to high accuracy, but price variations suggest the need for more features.
+- Further improvement can be made by incorporating economic factors, interest rates, and neighborhood details.
+🔍 Next Steps: Enhance the dataset, explore advanced models (Random Forest, XGBoost), and optimize feature selection.
