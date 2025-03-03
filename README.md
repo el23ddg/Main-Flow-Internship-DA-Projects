@@ -82,4 +82,4 @@ This project analyzes house prices based on key features like Size (Area), Numbe
 #### 📜 Results & Conclusion
 - The regression model provides moderate to high accuracy, but price variations suggest the need for more features.
 - Further improvement can be made by incorporating economic factors, interest rates, and neighborhood details.
-🔍 Next Steps: Enhance the dataset, explore advanced models (Random Forest, XGBoost), and optimize feature selection.
+##### 🔍 Next Steps: Enhance the dataset, explore advanced models (Random Forest, XGBoost), and optimize feature selection.
